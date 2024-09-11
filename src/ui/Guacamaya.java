@@ -75,6 +75,7 @@ public class Guacamaya {
                     break;
 
                 default:
+                    System.out.println("\nOpcion invalida, intenta nuevamente.");
                     break;
             }
 
